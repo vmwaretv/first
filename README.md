@@ -1,2 +1,2 @@
 # first
-ilk deme yapcaz bakalım
+ilk deneme yapcaz bakalım
